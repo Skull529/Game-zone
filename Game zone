@@ -2,17 +2,22 @@
 <html>
 <head>
 <title>Game Zone</title>
-<link rel="icon" type="image/x-icon" href="Images/GMZone.svg">
+<link rel="icon" type="image/x-icon" href="https://drive.google.com/file/d/1WzEF4ZZds1u2pkMCdSHN0DAUh7eMYKAb/view">
 <style>
 body {background-color: rgb(230,231,232);} 
-h1   {color: rgb(170,211,122);}
+h1   {color: rgb(170,211,122); height: 50%; width: 50%;}
 p    {color: rgb(170,211,122);}
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 </style>
 </head>
 <body>
 
-<h1>Welcome to GameZone</h1>
+<h1><img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBNvfJMbkhiXfnVDjqWknJC5nTbYG4pKFNMpAgFJpTRTpTlTtT-c2qPrczkEQx_uQ7WagCnDB6jqa-Fw0OSgDUUsK2_xqhIkGFPDKqhYXWv1zb0=w1920-h953" alt="GMZoneFull" class="center"></h1>
 <p>We love games</p>
 
 </body>
