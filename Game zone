@@ -6,7 +6,7 @@
 <style>
 body {background-image: url(Images/ai-generated-vibrant-green-space-filled-with-stars-and-dust-photo.jpeg);} 
 h1   {color: rgb(170,211,122);}
-p    {color: rgb(170,211,122);}
+p    {color: rgb(0,0,0); font-size: 150px;}
 .center {
   display: block;
   margin-left: auto;
