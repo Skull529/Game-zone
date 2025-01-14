@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Game Zone</title>
+<link rel="icon" type="image/x-icon" href="Images/GMZone.svg">
+<style>
+body {background-color: rgb(230,231,232);} 
+h1   {color: rgb(170,211,122);}
+p    {color: rgb(170,211,122);}
+
+</style>
+</head>
+<body>
+
+<h1>Welcome to GameZone</h1>
+<p>We love games</p>
+
+</body>
+</html>
