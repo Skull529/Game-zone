@@ -6,19 +6,36 @@
 <style>
 body {background-image: url(Images/ai-generated-vibrant-green-space-filled-with-stars-and-dust-photo.jpeg);} 
 h1   {color: rgb(170,211,122);}
-p    {color: rgb(0,0,0); font-size: 150px;}
+p    {color: rgb(0,0,0); font-size: 150px; ;}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+figcaption {display: block; padding-left: 5%; font-size: x-large;}
+img {caption-side: bottom;}
+@keyframes example {
+  from {background-color: rgb(170,211,122)}
+  to {background-color: rgb(230,231,232);}
+}
+
+div {
+  background-color: rgb(170,211,122);
+  animation-name: example;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate ;
+}
 </style>
 </head>
 <body>
-
+<figure>
+<div>
 <img src="Images/GMZoneFull.png"; alt="GMZoneFull"; class="center"; height="250px"; width="50px";>
-<p>We love games</p>
-<h1 class="center">Games already exist, we just want to bring them to people</h1>
+<figcaption class="center" >Games already exist. We want to bring the world to where the games are happening.
+</div>
+</figcaption>
+</figure>
 </body>
 </html>
