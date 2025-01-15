@@ -19,6 +19,6 @@ p    {color: rgb(0,0,0); font-size: 150px;}
 
 <img src="Images/GMZoneFull.png"; alt="GMZoneFull"; class="center"; height="250px"; width="50px";>
 <p>We love games</p>
-
+<h1 class="center">Games already exist, we just want to bring them to people</h1>
 </body>
 </html>
