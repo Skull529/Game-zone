@@ -4,7 +4,9 @@
 <title>Game Zone</title>
 <link rel="icon" type="image/x-icon" href="Images/GMZone.svg">
 <style>
-body {background-image: url(Images/ai-generated-vibrant-green-space-filled-with-stars-and-dust-photo.jpeg);} 
+body {background-image: url(Images/ai-generated-vibrant-green-space-filled-with-stars-and-dust-photo.jpeg);
+  background-position: right top;
+  background-attachment: fixed;} 
 h1   {color: rgb(170,211,122);}
 p    {color: rgb(0,0,0); font-size: 150px; ;}
 .center {
@@ -26,6 +28,8 @@ div {
   animation-duration: 7s;
   animation-iteration-count: infinite;
   animation-direction: alternate ;
+  border-radius: 25px;
+  padding: 20px;
 }
 </style>
 </head>
