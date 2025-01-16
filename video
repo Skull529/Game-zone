@@ -5,20 +5,29 @@
 <link rel="icon" type="image/x-icon" href="Images/video.png">
 <style>
 body {background-image: url(Images/video.png);} 
-h1   {color: rgb(170,211,122);}
+h1   {color: rgb(166, 209, 116);}
+h3  {color: rgb(113, 184, 32);}
 p    {color: rgb(0,0,0); font-size: 150px;}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+}
+.centertext {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%
 }
 </style>
 </head>
 <body>
-
-<img src="images/GMZoneWhiteGreen.png"; alt="GMZoneWhiteGreen"; class="center"; height="250px"; width="50px";>
-
-<h1 class="center">Games already exist, we just want to bring them to people</h1>
+<img src="images/GMZoneWhiteGreen.png"; alt="GMZoneWhiteGreen"; class="center"; height="400px"; width="1000px";>
+<h1 class="centertext">video games</h1>
+<img src="images/r6.jpg" alt="r6" class="center" width="300px">
+<h3 class="centertext"> rainbow 6 seige is a Elete, competitive, tactical, realistic, and team based first person shooter where better planning and game sense is required for you and your team to come out on top.</h3>
+<img src="images/valorant.jpg" alt="valorant" class="center" width="300px">
+<h3 class="centertext"> It is a first-person shooter game, consisting of two teams of five, where one team attacks and the other defends. Players control characters known as 'agents', who all have different abilities to use during gameplay.</h3>
+</body>
 </body>
 </html>
