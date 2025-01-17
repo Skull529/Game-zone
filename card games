@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Game Zone</title>
+<link rel="icon" type="image/x-icon" href="Images/GMZone.svg">
+<style>
+body {background-image: url(images/download.jfif);} 
+h1   {color: rgb(170,211,122);}
+p    {color: rgb(255, 255, 255); font-size: 100px;}
+h3 {color:rgb(255,255,255); font-size: 25px;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.centertext {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%
+}
+</style>
+</head>
+<body>
 
+<img src="images/GMZoneWhite.png"; alt="GMZoneFull"; class="center"; height="400px"; width="1000px";>
+<h1 class="center">Games already exist. We want to bring the world to where the games are happening.</h1>
+<P Class="center">Card Games</P>
+<img src="images/shopping.webp" alt="Poker Set" class="center" width="300px">
+<h3 class="centertext">Poker is a game where you take a deck of cards and bet on who has the best hand, which is who has the most points, and whoever has the best hand wins the money everyone has bet. </h3>
+<img src="images/download (1).jfif" alt="Uno" class="center" width="300px">
+<h3 class="centertext">Uno is a multiplayer card game in which the objective is to be the first player to get rid of all of the cards in their hand. </h3>
+</body>
+</body>
+</html>
