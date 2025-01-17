@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Game Zone</title>
+<link rel="icon" type="image/x-icon" href="Images/GMZone.svg">
+<style>
+body {background-image: url(images/download.jfif);} 
+h1   {color: rgb(170,211,122);}
+p    {color: rgb(255, 255, 255); font-size: 100px;}
+h3 {color:rgb(255,255,255); font-size: 25px;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.centertext {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%
+}
+</style>
+</head>
+<body>
 
+<img src="images/GMZoneWhite.png"; alt="GMZoneFull"; class="center"; height="400px"; width="1000px";>
+<h1 class="center">Games already exist. We want to bring the world to where the games are happening.</h1>
+<P Class="center">Board Games</P>
+<img src="images/download (3).jfif" alt="Monopoly Board" class="center" width="300px">
+<h3 class="centertext">Monopoly is a economics based board game where the objective is to make evryone else banktrupt and for you to control the board. </h3>
+<img src="images/download (4).jfif" alt="Chutes & Ladders" class="center" width="300px">
+<h3 class="centertext">Chutes & Ladders is a simple board game where you start on square #1 and try to make it to square #100, but on the board there are "Chutes" which move you back spaces, and there are "Ladders" where you get to move up spaces. The first person to make it to square #100, Wins. </h3>
+<img src="images/shopping (1).webp" alt="Sorry Board Game" class="center" width="300px">
+<h3 class="centertext">Sorry is a board game where you take your pieces around the board and try and get all of your pieces "home" before the other players. </h3>
+<img src="images/shopping (2).webp" alt="Trouble Board Game" class="center" width="300px">
+<h3 class="centertext">Trouble is a board game where players compete to be the first player to move their pieces around the board, where the first person to do so is the winner. </h3>
+</body>
+</body>
+</html>
