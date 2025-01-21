@@ -22,12 +22,18 @@ p    {color: rgb(0,0,0); font-size: 150px;}
 </style>
 </head>
 <body>
-<img src="images/GMZoneWhiteGreen.png"; alt="GMZoneWhiteGreen"; class="center"; height="400px"; width="1000px";>
+<img src="images/GMZoneWhiteGreen.png" alt="GMZoneWhiteGreen" class="center" height="400px" width="1000px">
 <h1 class="centertext">video games</h1>
-<img src="images/r6.jpg" alt="r6" class="center" width="300px">
+<img src="images/r6.jpg" alt="r6" class="center" width="400px">
 <h3 class="centertext"> rainbow 6 seige is a Elete, competitive, tactical, realistic, and team based first person shooter where better planning and game sense is required for you and your team to come out on top.</h3>
-<img src="images/valorant.jpg" alt="valorant" class="center" width="300px">
-<h3 class="centertext"> It is a first-person shooter game, consisting of two teams of five, where one team attacks and the other defends. Players control characters known as 'agents', who all have different abilities to use during gameplay.</h3>
+<img src="images/valorant.jpg" alt="valorant" class="center" width="400px">
+<h3 class="centertext"> Valorant is a first-person shooter game, consisting of two teams of five, where one team attacks and the other defends. Players control characters known as 'agents', who all have different abilities to use during gameplay.</h3>
+<img src="images/cod.jpg" alt="cod" class="center" width="400px">
+<h3 class="centertext">Call Of Duty follows the events of the Cold War with the game taking place at the start of Operation Desert Storm with the Gulf War set as the backdrop for the story. You primarily play as Case, a silent protagonist who finds himself along with Marshal and Woods suspended from the CIA and forced to go rogue.</h3>
+<img src="images/fortnite.jpg" alt="fortnite" class="center" width="400px">
+<h3 class="centertext">Fortnite is an online video game and game platform developed by Epic Games and released in 2017. It is available in seven distinct game mode versions</h3>
+<img src="images/minecraft.jpg" alt="minecraft" class="center" width="400px">
+<h3 class ="centertext"> Minecraft is a game made up of blocks, creatures, and community. You can survive the night or build a work of art – the choice is all yours.</h3>
 </body>
 </body>
 </html>
