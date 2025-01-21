@@ -4,7 +4,7 @@
 <title>Game Zone</title>
 <link rel="icon" type="image/x-icon" href="Images/video.png">
 <style>
-body {background-image: url(Images/video.png);} 
+body {background-image: url(Images/video.png);font-family: 'Bahnschrift';font-size: 25px;} 
 h1   {color: rgb(166, 209, 116);}
 h3  {color: rgb(113, 184, 32);}
 p    {color: rgb(0,0,0); font-size: 150px;}
@@ -18,6 +18,7 @@ p    {color: rgb(0,0,0); font-size: 150px;}
   margin-left: auto;
   margin-right: auto;
   width:50%
+}
 }
 </style>
 </head>
@@ -34,6 +35,7 @@ p    {color: rgb(0,0,0); font-size: 150px;}
 <h3 class="centertext">Fortnite is an online video game and game platform developed by Epic Games and released in 2017. It is available in seven distinct game mode versions</h3>
 <img src="images/minecraft.jpg" alt="minecraft" class="center" width="400px">
 <h3 class ="centertext"> Minecraft is a game made up of blocks, creatures, and community. You can survive the night or build a work of art – the choice is all yours.</h3>
-</body>
+
+
 </body>
 </html>
