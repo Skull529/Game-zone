@@ -50,15 +50,25 @@ p    {color: rgb(0,0,0); font-size: 150px;}
   </div>
 <img src="images/GMZoneWhiteGreen.svg" alt="GMZoneWhiteGreen" class="center" height="400px" width="1000px">
 <h1 class="centertext">In person Games</h1>
+<a href="https://www.worldchasetag.com/">
 <img src="images/tag.jpg" alt="" class="center" width="400px">
+</a>
 <h3 class="centertext">Tag is a playground game involving one or more players chasing other players in an attempt to "tag" and mark them out of play, typically by touching with a hand.</h3>
+<a href ="https://www.nfl.com/">
 <img src="Images/football.webp" alt="" class="center" width="400px">
+</a>
 <h3 class="centertext">Football is a game played between two teams of 11 players each. A team scores points by moving a ball across the other team's goal line. The team that scores more points wins</h3>
+<a href ="https://www.nfl.com/">
 <img src="Images/hide.jpg" alt="" class="center" width="400px">
+</a>
 <h3 class="centertext">Hide-and-seek is a popular children's game in which at least two players conceal themselves in a set environment, to be found by one or more seekers</h3>
+<a href ="https://en.wikipedia.org/wiki/Marco_Polo_(game)">
 <img src="images/Polo.jpg" alt="" class="center" width="400px">
+</a>
 <h3 class="centertext">The rules are fairly simple. One person is chosen to be "it" and they close their eyes and get in one end of the swimming pool. They count to 10 and shout "Marco," and all the others in the pool shout "Polo." The one that shouts "Marco" has to try and catch one of the people who shouts "Polo".</h3>
+<a href="https://www.mlb.com/">
 <img src="images/baseball.jpg" alt="" class="center" width="400px">
+</a>
 <h3 class ="centertext">baseball is a game played with a bat, a ball, and gloves between two teams of nine players each on a field with four white bases laid out in a diamond</h3>
 
 
