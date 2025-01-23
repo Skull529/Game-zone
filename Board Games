@@ -4,10 +4,10 @@
 <title>Game Zone</title>
 <link rel="icon" type="image/x-icon" href="Images/GMZone.svg">
 <style>
-body {background-image: url(images/video.jfif);} 
-h1   {color: rgb(166, 209, 116);font-family: 'Trebuchet MS';}
-p    {color: rgb(166, 209, 116); font-size: 100px;font-family: 'Trebuchet MS';}
-h3 {color:rgb(113, 184, 32); font-size: 25px; font-family:Bahnschrift }
+body {background-image: url(images/download.jfif);} 
+h1   {color: rgb(170,211,122);font-family: 'Trebuchet MS';}
+p    {color: rgb(255, 255, 255); font-size: 100px;font-family: 'Trebuchet MS';}
+h3 {color:rgb(255,255,255); font-size: 25px; font-family:Bahnschrift }
 .center {
   display: block;
   margin-left: auto;
@@ -20,45 +20,28 @@ h3 {color:rgb(113, 184, 32); font-size: 25px; font-family:Bahnschrift }
   margin-right: auto;
   width:50%
 }
-#content {
-  position: fixed;
-  background: rgba(166, 209, 116, 0.5);
-  color: rgb(113, 184, 32);
-  width: 100%;
-  font-size: 30px;
-}
-.button {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  background-color:rgb(0,0,0); /* Green */
-  border: none;
-  color: rgb(230,231,232);
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  font-family: 'Bahnschrift';
-}
 </style>
 </head>
 <body>
-  <div class="button" id="content">
-    <a href="Index.html" class="button">Home</a>
-    <a href="VideoGames.html" class="button">Video Games</a>
-    <a href="Cards.html" class="button">Card Games</a>
-    <a href="Inperson.html" class="button">In-Person Games</a>
-    </div>
-<img src="images/GMZoneWhiteGreen.svg"; alt="GMZoneFull"; class="center"; height="400px"; width="1000px";>
+
+<img src="images/GMZoneWhite.png"; alt="GMZoneFull"; class="center"; height="400px"; width="1000px";>
+<h1 class="center">Games already exist. We want to bring the world to where the games are happening.</h1>
 <P Class="center">Board Games</P>
-<img src="images/monopoly.webp" alt="Monopoly Board" class="center" width="300px">
+<a href="https://www.walmart.com/ip/Monopoly-Board-Game-for-Ages-8-For-2-6-Players-Includes-8-Tokens-Tokens-May-Vary/670964901?wl13=3502&selectedSellerId=0&wmlspartner=wlpa&gStoreCode=3502&gQT=2">
+<img src="images/download (3).jfif" alt="Monopoly Board" class="center" width="300px">
+</a>
 <h3 class="centertext">Monopoly is a economics based board game where the objective is to make evryone else banktrupt and for you to control the board. </h3>
-<img src="images/chutes.avif" alt="Chutes & Ladders" class="center" width="300px">
+<a href="https://shop.hasbro.com/en-us/product/chutes-and-ladders-game/1095F835-5056-9047-F548-2F4D0AEF4ACC">
+<img src="images/download (4).jfif" alt="Chutes & Ladders" class="center" width="300px">
+</a>
 <h3 class="centertext">Chutes & Ladders is a simple board game where you start on square #1 and try to make it to square #100, but on the board there are "Chutes" which move you back spaces, and there are "Ladders" where you get to move up spaces. The first person to make it to square #100, Wins. </h3>
-<img src="images/sorry.webp" alt="Sorry Board Game" class="center" width="300px">
+<a href="https://www.amazon.com/Hasbro-Gaming-A5065-Sorry-Game/dp/B076HK9H7Z?gQT=2&ref_=fplfs&smid=ATVPDKIKX0DER&source=ps-sl-shoppingads-lpcontext&th=1">
+<img src="images/shopping (1).webp" alt="Sorry Board Game" class="center" width="300px">
+</a>
 <h3 class="centertext">Sorry is a board game where you take your pieces around the board and try and get all of your pieces "home" before the other players. </h3>
-<img src="images/trouble.jpg" alt="Trouble Board Game" class="center" width="300px">
+<a href="https://www.amazon.com/Winning-Moves-Games-Classic-Trouble/dp/B00EIJU40U?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER&gQT=2">
+<img src="images/shopping (2).webp" alt="Trouble Board Game" class="center" width="300px">
+</a>
 <h3 class="centertext">Trouble is a board game where players compete to be the first player to move their pieces around the board, where the first person to do so is the winner. </h3>
 </body>
 </body>
