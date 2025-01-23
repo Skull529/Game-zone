@@ -7,19 +7,19 @@
 body {
   margin:0;
 } 
-h1   {color: rgb(170,211,122,0.8);}
-p    {color: rgb(0,0,0); font-size: 150px; ;}
+h1   {color: rgb(170,211,122,0.8); font-family: 'Bahnschrift';}
+p    {color: rgb(0,0,0); font-size: 150px; font-family: 'Bahnschrift';}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-figcaption {display: block; padding-left: 5%; font-size: x-large;}
+figcaption {display: block; padding-left: 5%; font-size: x-large; font-family: 'Bahnschrift';}
 img {caption-side: bottom;}
 @keyframes example {
-  from {background-color: rgba(170,211,122,0.8)}
-  to {background-color: rgba(230,231,232,0.8);}
+  from {background-color: rgba(170,211,122)}
+  to {background-color: rgba(230,231,232);}
 }
 
 #ani {
@@ -44,6 +44,7 @@ img {caption-side: bottom;}
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  font-family: 'Bahnschrift';
 }
 /*
 #myVideo {
@@ -82,9 +83,9 @@ video {
       </figcaption>
     </figure>
     <a href="VideoGames.html" class="button">Video Games</a>
-    <a href="VideoGames.html" class="button">Card Games</a>
-    <a href="VideoGames.html" class="button">Board Games</a>
-    <a href="VideoGames.html" class="button">In-Person Games</a>
+    <a href="Cards.html" class="button">Card Games</a>
+    <a href="BoardGames.html" class="button">Board Games</a>
+    <a href="Inperson.html" class="button">In-Person Games</a>
   </div>
   <video autoplay muted loop id="myVideo">
     <source src="Video/videoplayback.mp4" type="video/mp4">
