@@ -27,13 +27,21 @@ h3 {color:rgb(255,255,255); font-size: 25px; font-family:Bahnschrift}
 <img src="images/GMZoneWhite.png"; alt="GMZoneFull"; class="center"; height="400px"; width="1000px";>
 <h1 class="center">Games already exist. We want to bring the world to where the games are happening.</h1>
 <P Class="center">Card Games</P>
+<a href="https://www.homedepot.com/p/VEVOR-Poker-Chip-Set-300-Piece-Poker-Set-Complete-Poker-Playing-Game-Set-with-Aluminum-Carrying-Case-11-5-Gram-Casino-Chips-PKCMTZPS300GNUPFZV0/329456552?source=shoppingads&locale=en-US&srsltid=AfmBOoq61NvqYdmBAYsmkXXtALM_NeIMv_fqhrNAbGo3aqhNvmaG_nVsjms&gQT=1">
 <img src="images/shopping.webp" alt="Poker Set" class="center" width="300px">
+</a>
 <h3 class="centertext">Poker is a game where you take a deck of cards and bet on who has the best hand, which is who has the most points, and whoever has the best hand wins the money everyone has bet. </h3>
+<a href="https://www.target.com/p/uno-card-game/-/A-17070411?sid=1946S&afid=google&ref=tgt_adv_xsf&CPNG=Toys&adgroup=87-0&gStoreCode=1946S&gQT=2">
 <img src="images/download (1).jfif" alt="Uno" class="center" width="300px">
+</a>
 <h3 class="centertext">Uno is a multiplayer card game in which the objective is to be the first player to get rid of all of the cards in their hand. </h3>
+<a href="https://magic.wizards.com/en">
 <img src="images/download (2).jfif" alt="Magic The Gathering" class="center" width="300px">
+</a>
 <h3 class="centertext">Magic The Gathering is a fantasy card game where you build your own deck of cards out of a large pool of cards and pit them against your opponents' deck.</h3>
+<a href="https://www.pokemon.com/us">
 <img src="images/images.jfif" alt="Pokemon cards" class="center" width="300px">
+</a>
 <h3 class="centertext">Pokemon is a role playing game based around building a small team of monsters to battle another team of monsters in a quest to become the best.</h3>
 </body>
 </body>
